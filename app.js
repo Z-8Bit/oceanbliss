@@ -23,7 +23,7 @@ const CARDS = [
     link: "https://open.spotify.com/",
   },
   {
-    name: "Github",
+    name: "GitHub",
     icon: "ri-github-fill",
     link: "https://github.com/Z-8Bit",
   },
