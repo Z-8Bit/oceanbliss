@@ -77,16 +77,14 @@ main {
     text-align: center;
   }
 }
-/* .card {
-  height: 38px;
-} */
+
 .card:link,
 .card:visited {
   color: white;
   text-decoration: none;
 
   margin: 1.2rem;
-  padding: 3rem 6rem;
+  padding: 4rem 8rem;
 
   background-color: var(--background-light);
   border-radius: 15px;
@@ -121,10 +119,11 @@ main {
 }
 
 .card__icon {
-  font-size: 4rem;
+  font-size: 3rem;
 
   padding: 1rem;
-  width: 108.8px;
+  /* aspect-ratio: 1 / 1; */
+  width: 88px;
 
   background-color: rgba(255, 255, 255, 0.05);
   border-radius: 50%;
