@@ -4,7 +4,7 @@
 
 /* -------------------------------------------------------- */
 
-const NAME = "Reyes";
+const NAME = "Zishaan";
 
 const CARDS = [
   {
@@ -46,21 +46,6 @@ const CARDS = [
     name: "CodeSandbox",
     icon: "ri-cloud-fill",
     link: "https://codesandbox.io/dashboard/",
-  },
-  {
-    name: "YouTube",
-    icon: "ri-youtube-fill",
-    link: "https://www.youtube.com/",
-  },
-  {
-    name: "LinkedIn",
-    icon: "ri-linkedin-fill",
-    link: "https://www.linkedin.com/",
-  },
-  {
-    name: "Gmail",
-    icon: "ri-google-fill",
-    link: "https://mail.google.com/",
   },
 ];
 
