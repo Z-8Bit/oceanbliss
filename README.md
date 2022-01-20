@@ -1,4 +1,7 @@
-# Gaandu
+# OceanBliss
+
+![image](https://user-images.githubusercontent.com/72144072/150349679-5631e9ea-759d-4ca0-b32a-51c2046d70cb.png)
+
  
 ## Credits :
 
