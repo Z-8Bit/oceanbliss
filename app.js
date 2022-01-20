@@ -1,7 +1,5 @@
 /* -------------------------------------------------------- */
 
-const NAME = "Zishaan";
-
 const CARDS = [
   {
     name: "Youtube",
