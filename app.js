@@ -8,24 +8,29 @@ const NAME = "Zishaan";
 
 const CARDS = [
   {
-    name: "Apple Music",
-    icon: "ri-music-2-fill",
-    link: "https://music.apple.com/us/browse",
+    name: "Youtube",
+    icon: "ri-youtube-fill",
+    link: "https://www.youtube.com",
   },
   {
-    name: "Reddit",
-    icon: "ri-reddit-fill",
-    link: "https://www.reddit.com/",
+    name: "Discord",
+    icon: "ri-discord-fill",
+    link: "https://discord.com/channels/@me",
   },
   {
-    name: "Figma",
-    icon: "ri-palette-fill",
-    link: "https://www.figma.com/",
+    name: "Spotify",
+    icon: "ri-spotify-fill",
+    link: "https://open.spotify.com/",
   },
   {
     name: "Github",
     icon: "ri-github-fill",
-    link: "https://github.com/",
+    link: "https://github.com/Z-8Bit",
+  },
+  {
+    name: "Whatsapp",
+    icon: "ri-whatsapp-fill",
+    link: "https://web.whatsapp.com/",
   },
   {
     name: "Twitter",
@@ -33,19 +38,14 @@ const CARDS = [
     link: "https://twitter.com",
   },
   {
-    name: "Dribbble",
-    icon: "ri-dribbble-fill",
-    link: "https://dribbble.com/",
+    name: "Instagram",
+    icon: "ri-instagram-fill",
+    link: "https://www.instagram.com/",
   },
   {
-    name: "Hashnode",
-    icon: "ri-hashtag",
-    link: "https://hashnode.com/",
-  },
-  {
-    name: "CodeSandbox",
-    icon: "ri-cloud-fill",
-    link: "https://codesandbox.io/dashboard/",
+    name: "ProtonMail",
+    icon: "ri-mail-fill",
+    link: "https://mail.protonmail.com/u/0/inbox",
   },
 ];
 
