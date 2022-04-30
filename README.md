@@ -1,6 +1,8 @@
 # OceanBliss
 
-![image](assets/oceanbliss-preview.png)
+![image](https://user-images.githubusercontent.com/72144072/166092252-a53ac90c-bbec-4dc2-9f20-02a1106a8dfd.png)
+
+I have made a firefox theme to go with this startpage, check it out [here](https://addons.mozilla.org/en-US/firefox/addon/oceanbliss/)!
 
 ## Other Startpages of mine.
 - [TreeBreeze](https://github.com/Z-8Bit/treebreeze) : A Startpage with a unique z-flex and To-Do List features.
