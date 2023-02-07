@@ -13,34 +13,14 @@ const CARDS = [
     link: "https://www.youtube.com",
   },
   {
-    name: "Discord",
-    icon: "ri-discord-fill",
-    link: "https://discord.com/channels/@me",
-  },
-  {
     name: "Spotify",
     icon: "ri-spotify-fill",
     link: "https://open.spotify.com/",
   },
   {
-    name: "GitHub",
-    icon: "ri-github-fill",
-    link: "https://github.com/Z-8Bit",
-  },
-  {
     name: "Whatsapp",
     icon: "ri-whatsapp-fill",
     link: "https://web.whatsapp.com/",
-  },
-  {
-    name: "Twitter",
-    icon: "ri-twitter-fill",
-    link: "https://twitter.com",
-  },
-  {
-    name: "Instagram",
-    icon: "ri-instagram-fill",
-    link: "https://www.instagram.com/",
   },
   {
     name: "ProtonMail",

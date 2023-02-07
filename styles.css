@@ -19,7 +19,7 @@ body {
   color: var(--text-light);
   font-family: 'Inter', sans-serif;
 
-  padding: 2rem 4rem;
+  padding: 2rem 8rem;
 
   background-color: var(--background);
   box-sizing: border-box;
@@ -84,11 +84,11 @@ main {
   color: white;
   text-decoration: none;
 
-  margin: 1.2rem;
-  padding: 4rem 8rem;
+  margin: 1rem;
+  padding: 4rem 12rem;
 
   background-color: var(--background-light);
-  border-radius: 15px;
+  border-radius: 20px;
   border: 1px solid rgba(255,255,255,.05);
 
   display: flex;
@@ -146,5 +146,5 @@ main {
 }
 
 #cardContainer {
-  margin-top: 17vh;
+  margin-top: 15vh;
 }
