@@ -25,7 +25,7 @@ const CARDS = [
   {
     name: "ProtonMail",
     icon: "ri-mail-fill",
-    link: "https://mail.proton.me/u/0/inbox",
+    link: "https://mail.proton.me/u/5/inbox",
   },
 ];
 
