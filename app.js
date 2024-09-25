@@ -8,9 +8,9 @@ const NAME = "Zishaan";
 
 const CARDS = [
   {
-    name: "Soundcloud",
-    icon: "ri-soundcloud-fill",
-    link: "https://www.soundcloud.com",
+    name: "Apple Music",
+    icon: "ri-music-2-fill",
+    link: "https://music.apple.com/in/library/all-playlists/",
   },
   {
     name: "Spotify",
